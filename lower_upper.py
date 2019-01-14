@@ -1,0 +1,5 @@
+Name = input("Enter string")
+str1 = Name.upper()
+print(str1)
+str2 = Name.lower()
+print(str2)
